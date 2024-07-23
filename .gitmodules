@@ -1,3 +1,3 @@
-[submodule "dist"]
-    path = dist
+[submodule "themes/myPortfolio"]
+    path = themes/myPortfolio
     url = https://github.com/ryanjay143/myPortfolio.git
